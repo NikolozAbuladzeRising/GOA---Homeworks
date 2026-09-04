@@ -18,6 +18,8 @@ for i in range(1, 21):
 for i in range(1, 21):
     print(i * 2)
 
+for i in range(1, 10):
+    print(i ** 2)
 
 
 total_sum = 0
@@ -26,6 +28,16 @@ for i in range(1, 11):
     total_sum += i
 
 print(total_sum)
+
+
+
+
+
+
+
+
+
+
 
 
 
