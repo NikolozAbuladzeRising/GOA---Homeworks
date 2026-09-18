@@ -42,8 +42,6 @@
 #     print(i)
 
 
-while x in range(1, 5):
-    print(i)
 
 
 
